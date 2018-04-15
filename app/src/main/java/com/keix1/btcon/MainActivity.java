@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
     private Button btnFinish;//終了用ボタン
     private TextView textview;//MacAddress表示用
     private String MacAddress = "DC:A9:04:84:9D:1B";
-//    private String MY_UUID = "00001101-0000-1000-8000-00805F9B34FB";
-    private String MY_UUID = "21001101-0000-1000-8000-00805F9B34FB";
+    private String MY_UUID = "00001101-0000-1000-8000-00805F9B34FB";
+//    private String MY_UUID = "21001101-0000-1000-8000-00805F9B34FB";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
